@@ -1276,8 +1276,6 @@
 		<string>Apple Inc.</string>
 		<key>Memory</key>
 		<dict>
-			<key>Channels</key>
-			<integer>2</integer>
 			<key>Modules</key>
 			<array>
 				<dict>
@@ -1346,7 +1344,7 @@
 				</dict>
 			</array>
 			<key>SlotCount</key>
-			<integer>4</integer>
+			<integer>6</integer>
 		</dict>
 		<key>Mobile</key>
 		<false/>
@@ -1357,7 +1355,7 @@
 		<key>SerialNumber</key>
 		<string>DGKJN00EF500</string>
 		<key>SmUUID</key>
-		<string>4D2AE78F-7DB2-44BC-88C2-F6C34728E6F9</string>
+		<string>34BE6A52-FCBE-43BE-9BDF-B956595318C0</string>
 		<key>Version</key>
 		<string>1.2</string>
 	</dict>
