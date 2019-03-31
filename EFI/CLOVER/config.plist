@@ -300,8 +300,6 @@
 		<string>LastBootedVolume</string>
 		<key>DisableCloverHotkeys</key>
 		<false/>
-		<key>Fast</key>
-		<true/>
 		<key>Legacy</key>
 		<string>PBR</string>
 		<key>NeverDoRecovery</key>
@@ -316,6 +314,8 @@
 		<false/>
 		<key>StrictHibernate</key>
 		<false/>
+		<key>Timeout</key>
+		<integer>-1</integer>
 	</dict>
 	<key>BootGraphics</key>
 	<dict>
@@ -1280,7 +1280,7 @@
 			<array>
 				<dict>
 					<key>Frequency</key>
-					<integer>2133</integer>
+					<integer>2000</integer>
 					<key>Part</key>
 					<string>2133</string>
 					<key>Serial</key>
@@ -1296,7 +1296,7 @@
 				</dict>
 				<dict>
 					<key>Frequency</key>
-					<integer>2133</integer>
+					<integer>2000</integer>
 					<key>Part</key>
 					<string>2133</string>
 					<key>Serial</key>
@@ -1312,7 +1312,7 @@
 				</dict>
 				<dict>
 					<key>Frequency</key>
-					<integer>2133</integer>
+					<integer>2000</integer>
 					<key>Part</key>
 					<string>2133</string>
 					<key>Serial</key>
@@ -1328,7 +1328,7 @@
 				</dict>
 				<dict>
 					<key>Frequency</key>
-					<integer>2133</integer>
+					<integer>2000</integer>
 					<key>Part</key>
 					<string>2133</string>
 					<key>Serial</key>
@@ -1340,7 +1340,7 @@
 					<key>Type</key>
 					<string>DDR3</string>
 					<key>Vendor</key>
-					<string>2134</string>
+					<string>2133</string>
 				</dict>
 			</array>
 			<key>SlotCount</key>
