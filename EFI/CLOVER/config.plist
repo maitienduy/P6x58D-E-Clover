@@ -83,7 +83,7 @@
 				<key>FixADP1</key>
 				<true/>
 				<key>FixAirport</key>
-				<false/>
+				<true/>
 				<key>FixDarwin</key>
 				<false/>
 				<key>FixDarwin7</key>
@@ -756,10 +756,14 @@
 		<false/>
 		<key>EmbeddedThemeType</key>
 		<string>Daytime</string>
+		<key>Language</key>
+		<string>en:0</string>
 		<key>PlayAsync</key>
 		<false/>
+		<key>Scan</key>
+		<true/>
 		<key>ScreenResolution</key>
-		<string>1920x1080</string>
+		<string>2560x2048</string>
 		<key>ShowOptimus</key>
 		<false/>
 		<key>Theme</key>
@@ -1276,31 +1280,17 @@
 		<string>Apple Inc.</string>
 		<key>Memory</key>
 		<dict>
+			<key>Channels</key>
+			<integer>3</integer>
 			<key>Modules</key>
 			<array>
 				<dict>
 					<key>Frequency</key>
 					<integer>2000</integer>
 					<key>Part</key>
-					<string>2133</string>
+					<string>Gskill</string>
 					<key>Serial</key>
-					<string>2133</string>
-					<key>Size</key>
-					<integer>4096</integer>
-					<key>Slot</key>
-					<integer>0</integer>
-					<key>Type</key>
-					<string>DDR3</string>
-					<key>Vendor</key>
-					<string>2133</string>
-				</dict>
-				<dict>
-					<key>Frequency</key>
-					<integer>2000</integer>
-					<key>Part</key>
-					<string>2133</string>
-					<key>Serial</key>
-					<string>2133</string>
+					<string>Gskill</string>
 					<key>Size</key>
 					<integer>4096</integer>
 					<key>Slot</key>
@@ -1308,31 +1298,15 @@
 					<key>Type</key>
 					<string>DDR3</string>
 					<key>Vendor</key>
-					<string>2133</string>
+					<string>Gskill</string>
 				</dict>
 				<dict>
 					<key>Frequency</key>
 					<integer>2000</integer>
 					<key>Part</key>
-					<string>2133</string>
+					<string>Gskill</string>
 					<key>Serial</key>
-					<string>2133</string>
-					<key>Size</key>
-					<integer>4096</integer>
-					<key>Slot</key>
-					<integer>2</integer>
-					<key>Type</key>
-					<string>DDR3</string>
-					<key>Vendor</key>
-					<string>2133</string>
-				</dict>
-				<dict>
-					<key>Frequency</key>
-					<integer>2000</integer>
-					<key>Part</key>
-					<string>2133</string>
-					<key>Serial</key>
-					<string>2133</string>
+					<string>Gskill</string>
 					<key>Size</key>
 					<integer>4096</integer>
 					<key>Slot</key>
@@ -1340,7 +1314,39 @@
 					<key>Type</key>
 					<string>DDR3</string>
 					<key>Vendor</key>
-					<string>2133</string>
+					<string>Gskill</string>
+				</dict>
+				<dict>
+					<key>Frequency</key>
+					<integer>2000</integer>
+					<key>Part</key>
+					<string>Gskill</string>
+					<key>Serial</key>
+					<string>Gskill</string>
+					<key>Size</key>
+					<integer>4096</integer>
+					<key>Slot</key>
+					<integer>4</integer>
+					<key>Type</key>
+					<string>DDR3</string>
+					<key>Vendor</key>
+					<string>Gskill</string>
+				</dict>
+				<dict>
+					<key>Frequency</key>
+					<integer>2000</integer>
+					<key>Part</key>
+					<string>Gskill</string>
+					<key>Serial</key>
+					<string>Gskill</string>
+					<key>Size</key>
+					<integer>4096</integer>
+					<key>Slot</key>
+					<integer>5</integer>
+					<key>Type</key>
+					<string>DDR3</string>
+					<key>Vendor</key>
+					<string>Gskill</string>
 				</dict>
 			</array>
 			<key>SlotCount</key>
